@@ -1,6 +1,6 @@
 # LCD-with-Arduino-using-I2C
 Check Full Tutorial on YouTube at "Rajj YT".
-
+https://youtu.be/hmqw_GWdo18
 
 Liquid Crystal Displays (LCDs) are widely used in various electronic devices, from watches and calculators to home appliances and industrial machinery. With the help of an Arduino board and the I2C protocol, it is easy to interface an LCD display with your project and display information in a user-friendly way.
 
